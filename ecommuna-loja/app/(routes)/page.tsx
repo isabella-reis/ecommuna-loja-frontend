@@ -6,7 +6,7 @@ import Container from "@/components/ui/container";
 
 const HomePage = async () => {
   const products = await getProducts({ isFeatured: true });
-  const billboard = await getBillboard("9a0d1abb-389b-4b9b-b5b7-812c3716a0c1");
+  const billboard = await getBillboard("11b91842-0281-4d1e-82f8-849647fcf26c");
 
   return (
     <Container>
