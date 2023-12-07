@@ -10,7 +10,7 @@ import ToastProvider from '@/providers/toast-provider'
 const inter = Urbanist({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Loja',
+  title: 'Ecommuna - Ecommerce',
   description: 'Ecommerce Ecommuna',
 }
 
