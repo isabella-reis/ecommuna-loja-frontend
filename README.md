@@ -24,8 +24,5 @@ O Floricommuna é um e-commerce de flores criado como projeto acadêmico para a 
 - **`/page.tsx`:** Arquivo para páginas adicionais não relacionadas a rotas principais.
 - **`/components`:** Diretório que agrupa componentes reutilizáveis em todo o projeto.
 
-## 📝 Licença
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
 
 Divirta-se explorando o Floricommuna! 🌸✨
