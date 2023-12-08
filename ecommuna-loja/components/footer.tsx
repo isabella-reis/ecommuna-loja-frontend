@@ -3,7 +3,7 @@ const Footer = () => {
     <div className="bg-white border-t">
       <div className="mx-auto- py-10">
         <p className="text-center text-xm text-black">
-          &copy; 2023 Ecommuna - Todos os direitos reservados.
+          &copy; 2023 Floricommuna - Todos os direitos reservados.
         </p>
       </div>
     </div>
